@@ -1,4 +1,4 @@
-# REAL-TIME HAND GESTURE RECOGNITION FOR DRONE CONTROL
+# AeroGest- A REAL-TIME HAND GESTURE RECOGNITION FOR DRONE CONTROL
 
 This project implements a custom Convolutional Neural Network that takes webcam images as training input and creates a csv file to store the image data and
 an h5 file to store the weights of the CNN model that takes in these images as input.
