@@ -5,11 +5,11 @@ an h5 file to store the weights of the CNN model that takes in these images as i
 It also includes a speech recognition feature that takes in real-time microphone input and using Gemini API, cleans the recognized input and outputs a command for the drone.
 
 ### Technologies used:
--**OpenCV**
--**Tensorflow**
--**Keras**
--**SpeechRecognizer**
--**Gemini API**
+- **OpenCV**
+- **Tensorflow**
+- **Keras**
+- **SpeechRecognizer**
+- **Gemini API**
 
 
 
